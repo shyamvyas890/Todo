@@ -16,16 +16,16 @@ Now, navigate to the terminal and cd into the project directory.
 
 Run the following commands:
 
-```cd backend```
-```npm install```
-```npm start```
+1) ```cd backend```
+2) ```npm install```
+3) ```npm start```
 Now, open a new terminal window and cd into the project directory.
 
 Run the following commands:
 
-```cd client```
-```npm install```
-```npm start```
+1) ```cd client```
+2) ```npm install```
+3) ```npm start```
 The project should open in your browser, and be ready for use.
 
 The todo list data will be stored, even when you close the application and rerun it.
